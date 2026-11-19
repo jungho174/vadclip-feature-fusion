@@ -1,0 +1,11 @@
+# Install torch and torchvision as a matching pair for your CPU or CUDA setup first.
+numpy
+pandas
+scikit-learn
+scipy
+ftfy
+regex
+packaging
+tqdm
+Pillow
+opencv-python

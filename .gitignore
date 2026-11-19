@@ -1,0 +1,16 @@
+# Local research inputs and generated outputs
+/data/
+/weights/
+/outputs/
+/vendor/
+/.venv/
+__pycache__/
+*.py[cod]
+*.npy
+*.npz
+*.pt
+*.pth
+*.mp4
+*.avi
+.env
+.vscode/
